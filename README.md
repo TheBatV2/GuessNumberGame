@@ -24,5 +24,5 @@ JavaScript
 
 
 - Cleaner interface.
-- Duffuculty levels, How many guesses you get.
-- A better error catching system, if you input anything that isnt an number currently it breaks the code.
+- Difficulty levels, How many guesses you get.
+- A better error catching system, if you input anything that isn't an number currently it breaks the code.
